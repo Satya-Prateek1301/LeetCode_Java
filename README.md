@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
