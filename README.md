@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -20,6 +21,7 @@
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
