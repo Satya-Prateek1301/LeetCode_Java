@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
