@@ -9,6 +9,7 @@
 | [0326-power-of-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
@@ -73,6 +74,7 @@
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
