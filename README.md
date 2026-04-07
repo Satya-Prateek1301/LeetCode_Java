@@ -86,6 +86,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
