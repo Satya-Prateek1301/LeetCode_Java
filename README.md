@@ -75,6 +75,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
