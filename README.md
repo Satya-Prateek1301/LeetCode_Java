@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 ## String Matching
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
