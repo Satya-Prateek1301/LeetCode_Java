@@ -23,6 +23,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
