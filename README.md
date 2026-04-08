@@ -185,6 +185,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
