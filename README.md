@@ -26,6 +26,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -167,6 +168,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
