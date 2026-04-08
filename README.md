@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
@@ -114,6 +116,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
