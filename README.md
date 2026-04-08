@@ -74,6 +74,7 @@
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -158,6 +159,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
