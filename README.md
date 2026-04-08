@@ -19,6 +19,7 @@
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2544-alternating-digit-sum) |
@@ -210,6 +211,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
