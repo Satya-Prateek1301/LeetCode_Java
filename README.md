@@ -28,6 +28,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
@@ -163,6 +164,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
