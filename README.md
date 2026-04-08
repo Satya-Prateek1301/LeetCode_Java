@@ -19,6 +19,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -140,6 +141,7 @@
 | [0485-max-consecutive-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0724-find-pivot-index) |
@@ -188,6 +190,7 @@
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
