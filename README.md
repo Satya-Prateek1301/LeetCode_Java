@@ -50,6 +50,7 @@
 | [0027-remove-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0242-valid-anagram) |
@@ -216,6 +218,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
