@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
@@ -94,6 +95,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
