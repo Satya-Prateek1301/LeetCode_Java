@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0125-valid-palindrome) |
@@ -134,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0242-valid-anagram) |
