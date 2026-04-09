@@ -194,6 +194,7 @@
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0142-linked-list-cycle-ii) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 ## Union-Find
