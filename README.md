@@ -91,6 +91,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -220,6 +221,7 @@
 | [1528-shuffle-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -285,6 +287,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -343,6 +346,7 @@
 | [0991-broken-calculator](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0991-broken-calculator) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
