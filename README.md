@@ -24,6 +24,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0728-self-dividing-numbers) |
+| [0991-broken-calculator](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -300,6 +301,7 @@
 | [0011-container-with-most-water](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
+| [0991-broken-calculator](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0991-broken-calculator) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
