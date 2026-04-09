@@ -104,6 +104,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
@@ -230,6 +231,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
@@ -280,6 +282,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
