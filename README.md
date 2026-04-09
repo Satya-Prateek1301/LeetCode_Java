@@ -143,6 +143,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -168,6 +169,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -188,6 +190,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
@@ -451,6 +454,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
