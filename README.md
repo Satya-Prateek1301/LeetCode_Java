@@ -163,6 +163,7 @@
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Stack
 |  |
@@ -223,6 +224,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
