@@ -128,6 +128,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -147,6 +148,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation
@@ -396,4 +398,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
