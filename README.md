@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0168-excel-sheet-column-title) |
@@ -161,6 +162,7 @@
 | [0014-longest-common-prefix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0088-merge-sorted-array) |
@@ -368,6 +370,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 ## Union-Find
