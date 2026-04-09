@@ -134,6 +134,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -156,6 +157,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
@@ -424,6 +427,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
