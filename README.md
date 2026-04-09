@@ -89,6 +89,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3794-reverse-string-prefix) |
@@ -360,6 +361,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
