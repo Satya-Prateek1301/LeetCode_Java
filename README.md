@@ -220,6 +220,7 @@
 | [3379-transformed-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
@@ -330,6 +331,7 @@
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
+| [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
+| [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +411,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
