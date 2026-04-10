@@ -240,6 +240,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -356,6 +357,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
@@ -569,4 +571,12 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
