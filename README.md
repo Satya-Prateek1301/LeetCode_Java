@@ -160,6 +160,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
@@ -194,6 +196,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -396,6 +399,7 @@
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -440,6 +444,7 @@
 | [0991-broken-calculator](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0991-broken-calculator) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -527,6 +532,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
