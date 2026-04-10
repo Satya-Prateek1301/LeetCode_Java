@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
