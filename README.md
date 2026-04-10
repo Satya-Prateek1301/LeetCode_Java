@@ -171,6 +171,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Tree
 |  |
@@ -283,6 +284,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3637-trionic-array-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -356,6 +358,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -367,6 +370,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Divide and Conquer
 |  |
