@@ -172,6 +172,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -211,6 +212,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
@@ -584,6 +586,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
