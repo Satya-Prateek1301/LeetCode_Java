@@ -363,6 +363,7 @@
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Sorting
 |  |
 | ------- |
@@ -487,6 +489,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Dynamic Programming
 |  |
 | ------- |
