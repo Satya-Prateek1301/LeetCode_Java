@@ -168,6 +168,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
@@ -236,6 +237,7 @@
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -519,6 +521,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
