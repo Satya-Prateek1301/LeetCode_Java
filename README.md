@@ -147,6 +147,7 @@
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 ## String Matching
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -440,6 +443,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
