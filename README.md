@@ -36,6 +36,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -322,6 +323,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
@@ -391,6 +393,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
