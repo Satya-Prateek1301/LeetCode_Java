@@ -63,6 +63,7 @@
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -415,6 +416,7 @@
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
