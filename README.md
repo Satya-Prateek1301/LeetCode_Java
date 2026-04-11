@@ -320,6 +320,7 @@
 | [0238-product-of-array-except-self](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -417,6 +418,7 @@
 | [0229-majority-element-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -460,6 +462,7 @@
 | [0229-majority-element-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -508,6 +511,7 @@
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -516,6 +520,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -618,6 +623,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Brainteaser
 |  |
@@ -685,6 +691,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -705,6 +712,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
