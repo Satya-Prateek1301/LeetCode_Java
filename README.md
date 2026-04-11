@@ -245,6 +245,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
@@ -282,6 +283,7 @@
 | [0035-search-insert-position](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0074-search-a-2d-matrix) |
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
