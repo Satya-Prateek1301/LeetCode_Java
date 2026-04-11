@@ -283,6 +283,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [3379-transformed-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3498-reverse-degree-of-a-string) |
@@ -402,6 +403,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
+| [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -513,6 +515,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -685,6 +688,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -734,6 +738,7 @@
 | [1046-last-stone-weight](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
