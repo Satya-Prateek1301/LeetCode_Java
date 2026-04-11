@@ -32,6 +32,7 @@
 | [0728-self-dividing-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0991-broken-calculator) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1154-day-of-the-year](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -411,6 +412,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
