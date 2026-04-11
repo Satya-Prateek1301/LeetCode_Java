@@ -60,6 +60,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3870-count-commas-in-range](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
