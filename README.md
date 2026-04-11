@@ -18,6 +18,7 @@
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
@@ -596,6 +597,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0319-bulb-switcher) |
 ## Trie
 |  |
@@ -681,4 +683,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0164-maximum-gap) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
