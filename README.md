@@ -495,6 +495,7 @@
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3853-merge-close-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3853-merge-close-characters) |
 | [3889-mirror-frequency-distance](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
@@ -541,6 +542,7 @@
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -587,6 +589,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -636,6 +639,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Prefix Sum
 |  |
 | ------- |
