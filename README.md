@@ -376,6 +376,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -597,6 +598,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
