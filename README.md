@@ -40,6 +40,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2119-a-number-after-a-double-reversal) |
@@ -256,6 +257,7 @@
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
+| [1518-water-bottles](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
