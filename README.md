@@ -157,6 +157,7 @@
 | [3803-count-residue-prefixes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
+| [3853-merge-close-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3853-merge-close-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3853-merge-close-characters) |
 ## Sorting
 |  |
 | ------- |
