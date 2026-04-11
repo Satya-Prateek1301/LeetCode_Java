@@ -389,6 +389,7 @@
 | [3842-toggle-light-bulbs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3861-minimum-capacity-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
