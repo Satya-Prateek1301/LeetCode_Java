@@ -72,6 +72,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
@@ -117,6 +118,7 @@
 | [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
@@ -223,6 +225,7 @@
 | [0162-find-peak-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -334,6 +337,7 @@
 | [0238-product-of-array-except-self](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
