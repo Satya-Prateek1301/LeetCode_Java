@@ -54,6 +54,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -505,6 +506,7 @@
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
