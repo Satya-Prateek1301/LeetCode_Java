@@ -54,6 +54,7 @@
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3099-harshad-number) |
+| [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -415,6 +416,7 @@
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -668,6 +670,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
+| [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Quickselect
