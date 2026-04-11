@@ -177,6 +177,7 @@
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -477,6 +478,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
