@@ -390,6 +390,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3861-minimum-capacity-box) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -576,6 +577,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
 ## Linked List
 |  |
 | ------- |
