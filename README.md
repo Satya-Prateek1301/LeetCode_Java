@@ -137,6 +137,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3853-merge-close-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
 | ------- |
