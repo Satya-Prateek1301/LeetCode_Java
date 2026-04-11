@@ -86,6 +86,7 @@
 | [0326-power-of-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -244,6 +246,7 @@
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
