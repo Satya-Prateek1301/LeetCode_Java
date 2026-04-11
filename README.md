@@ -158,6 +158,7 @@
 | [3838-weighted-word-mapping](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3853-merge-close-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3853-merge-close-characters) |
+| [3856-trim-trailing-vowels](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3856-trim-trailing-vowels) |
 ## String Matching
 |  |
 | ------- |
