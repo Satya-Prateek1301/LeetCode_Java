@@ -48,6 +48,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2769-find-the-maximum-achievable-number) |
@@ -140,6 +141,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
@@ -713,6 +715,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
