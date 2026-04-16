@@ -138,6 +138,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -408,6 +409,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -487,6 +489,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -543,6 +546,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
