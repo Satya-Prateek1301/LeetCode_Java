@@ -174,6 +174,7 @@
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0459-repeated-substring-pattern) |
 | [1154-day-of-the-year](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1154-day-of-the-year) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -322,6 +323,7 @@
 | [0155-min-stack](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2390-removing-stars-from-a-string) |
