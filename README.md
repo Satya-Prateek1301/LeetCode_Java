@@ -52,6 +52,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2544-alternating-digit-sum) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -437,6 +438,7 @@
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
@@ -724,6 +726,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0258-add-digits) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
