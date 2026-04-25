@@ -92,6 +92,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -439,6 +440,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
@@ -512,6 +514,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
