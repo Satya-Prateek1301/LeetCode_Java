@@ -194,6 +194,7 @@
 | [2678-number-of-senior-citizens](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2678-number-of-senior-citizens) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -517,6 +518,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
@@ -624,6 +626,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3746-minimum-string-length-after-balanced-removals) |
