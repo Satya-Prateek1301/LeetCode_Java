@@ -145,6 +145,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -188,6 +189,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -305,6 +307,7 @@
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [1518-water-bottles](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -429,6 +432,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2109-adding-spaces-to-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
