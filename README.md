@@ -22,6 +22,7 @@
 | [0319-bulb-switcher](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -381,6 +382,7 @@
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -651,6 +653,7 @@
 | [0152-maximum-product-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
