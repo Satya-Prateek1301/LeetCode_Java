@@ -452,6 +452,7 @@
 | [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -582,6 +583,7 @@
 | [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -686,6 +688,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
