@@ -425,6 +425,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1402-reducing-dishes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1470-shuffle-the-array) |
@@ -581,6 +582,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -667,6 +669,7 @@
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1402-reducing-dishes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1402-reducing-dishes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
@@ -690,6 +693,7 @@
 | [1323-maximum-69-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1323-maximum-69-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
