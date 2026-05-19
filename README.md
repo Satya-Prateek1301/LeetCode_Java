@@ -268,6 +268,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0938-range-sum-of-bst) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -408,6 +409,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
