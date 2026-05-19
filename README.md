@@ -356,6 +356,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0054-spiral-matrix) |
@@ -661,6 +662,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0119-pascals-triangle-ii) |
@@ -688,6 +690,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
