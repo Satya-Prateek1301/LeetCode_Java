@@ -143,6 +143,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -412,6 +413,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0973-k-closest-points-to-origin) |
@@ -580,6 +582,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
