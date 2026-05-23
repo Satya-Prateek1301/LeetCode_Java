@@ -447,6 +447,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1979-find-greatest-common-divisor-of-array) |
