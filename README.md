@@ -462,6 +462,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -548,6 +549,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
