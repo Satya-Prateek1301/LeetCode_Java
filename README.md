@@ -397,6 +397,7 @@
 | [0274-h-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
@@ -717,6 +718,7 @@
 | [0011-container-with-most-water](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
