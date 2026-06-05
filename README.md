@@ -54,6 +54,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2544-alternating-digit-sum) |
@@ -744,6 +745,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1903-largest-odd-number-in-string) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -941,4 +943,8 @@
 | ------- |
 | [0148-sort-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2178-maximum-split-of-positive-even-integers) |
 <!---LeetCode Topics End-->
