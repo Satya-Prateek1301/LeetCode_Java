@@ -192,6 +192,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0459-repeated-substring-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1528-shuffle-string) |
@@ -444,6 +445,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1266-minimum-time-visiting-all-points) |
@@ -556,6 +558,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -682,6 +685,7 @@
 | [0229-majority-element-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
