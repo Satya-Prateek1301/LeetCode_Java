@@ -510,6 +510,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3637-trionic-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
@@ -757,6 +758,7 @@
 | [2706-buy-two-chocolates](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
