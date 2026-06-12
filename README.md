@@ -187,6 +187,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0459-repeated-substring-pattern) |
@@ -354,6 +355,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -740,6 +742,7 @@
 | [0045-jump-game-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -946,6 +949,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
