@@ -278,6 +278,7 @@
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
@@ -420,6 +421,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -731,6 +733,7 @@
 | [0338-counting-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -753,6 +756,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -785,6 +789,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
