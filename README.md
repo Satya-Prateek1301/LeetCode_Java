@@ -454,6 +454,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -865,6 +866,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -913,6 +915,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
