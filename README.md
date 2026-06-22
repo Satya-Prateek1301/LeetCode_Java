@@ -196,6 +196,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1528-shuffle-string) |
@@ -575,6 +576,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -703,6 +705,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1512-number-of-good-pairs) |
