@@ -534,6 +534,7 @@
 | [3637-trionic-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -605,6 +606,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -706,6 +708,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -729,6 +732,7 @@
 | [3223-minimum-length-of-string-after-operations](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3843-first-element-with-unique-frequency) |
@@ -816,6 +820,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
 ## Linked List
@@ -968,6 +973,7 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1000,6 +1006,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
