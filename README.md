@@ -500,6 +500,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
@@ -595,6 +596,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -729,6 +731,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3223-minimum-length-of-string-after-operations) |
