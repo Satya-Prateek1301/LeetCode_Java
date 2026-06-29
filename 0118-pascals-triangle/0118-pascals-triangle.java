@@ -3,10 +3,16 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         for(int i = 0 ; i < numRows ; i++){
             List<Integer> row = new ArrayList<>();
-            int number = 1;
             for(int j = 0 ; j <= i ; j++){
-                row.add(number);
-                number = number * (i - j)/(j + 1);
+                if(j == 0 || j == i){
+                    row.add(1); 
+                }
+                else{
+                    int prev = list.get(i - 1).get(j - 1);
+                    int curr = list.get(i - 1).get(j);
+                    int sum = prev + curr;
+                    row.add(sum);
+                }
             }
             list.add(row);
         }
