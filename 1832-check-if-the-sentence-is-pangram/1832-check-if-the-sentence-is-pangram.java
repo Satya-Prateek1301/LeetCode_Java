@@ -8,19 +8,11 @@ class Solution {
         for(int i : freq){
             System.out.print(i + " ");
         }
-        boolean flag = false;
         for(int i = 0 ; i < freq.length ; i++){
-            if(freq[i] > 0){
-                flag = true;
-            }
-            else{
-                flag = false;
-                break;
+            if(freq[i] == 0){
+                return false;
             }
         }
-        if(flag){
-            return true;
-        }
-        return false;
+        return true;
     }
 }
