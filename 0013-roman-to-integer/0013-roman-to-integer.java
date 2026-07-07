@@ -8,23 +8,18 @@ class Solution {
         map.put('C', 100);
         map.put('D', 500);
         map.put('M', 1000);
-
         int total = 0;
         int prev = 0;
-
         for (int i = s.length() - 1; i >= 0; i--) {
             int current = map.get(s.charAt(i));
-
             if (current < prev) {
                 total -= current;
             } 
             else {
                 total += current;
             }
-
             prev = current;
         }
-
         return total;
     }
 }
