@@ -72,6 +72,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -885,6 +886,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Quickselect
 |  |
