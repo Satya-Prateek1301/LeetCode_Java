@@ -503,6 +503,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1816-truncate-sentence) |
@@ -926,6 +927,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1672-richest-customer-wealth) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2679-sum-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2679-sum-in-a-matrix) |
 ## Union-Find
