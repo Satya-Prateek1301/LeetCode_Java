@@ -308,6 +308,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0938-range-sum-of-bst) |
+| [1095-find-in-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -482,6 +483,7 @@
 | [0994-rotting-oranges](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1051-height-checker) |
+| [1095-find-in-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1095-find-in-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1051,4 +1053,8 @@
 |  |
 | ------- |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
