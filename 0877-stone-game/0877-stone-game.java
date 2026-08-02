@@ -11,8 +11,7 @@ class Solution {
             }
         }
         if(evenSum != oddSum){
-            return true
-            ;
+            return true;
         }
         return false;
     }
