@@ -1,35 +1,37 @@
 class Solution {
-    public int splitArray(int[] nums, int k) {
-        int low = 0;
-        int high = 0;
+    public boolean isPossible(int[] nums, int mid, int k){
+        int parts = 1;
+        int sum = 0;
         for(int num : nums){
-            low = Math.min(low, num);
-            high += num;
-        }
-        int ans = -1;
-        while (low <= high) {
-            int mid = low + (high - low)/2;
-            int parts = 1;
-            int currSum = 0;
-            for (int num : nums) {
-                if(num > mid){
-                    parts = k + 1;
-                    break;
-                }
-                if (currSum + num > mid) {
-                    parts++;
-                    currSum = num;
-                } else {
-                    currSum += num;
-                }
+            if(sum + num > mid){
+                parts++;
+                sum = num;
             }
-            if (parts <= k) {
-                high = mid - 1;
-                ans = mid;
-            } else {
-                low = mid + 1;  
+            else{
+                sum += num;
+            }
+            if(parts > k){
+                return false;
             }
         }
-        return ans;
+        return true;
+    }
+    public int splitArray(int[] nums, int k){
+        int left = 0;
+        int right = 0;
+        for(int num : nums){
+            left = Math.max(left, num);
+            right += num;
+        }
+        while(left < right){
+            int mid = left + (right - left) / 2;
+            if(isPossible(nums, mid, k)){
+                right = mid;
+            }
+            else{
+                left = mid + 1;
+            }
+        }
+        return left;
     }
 }
