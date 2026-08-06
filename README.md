@@ -68,6 +68,7 @@
 | [3115-maximum-prime-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -844,6 +845,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3745-maximize-expression-of-three-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
