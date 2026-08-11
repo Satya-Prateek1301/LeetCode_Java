@@ -311,6 +311,7 @@
 | [0938-range-sum-of-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0938-range-sum-of-bst) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -493,6 +494,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
