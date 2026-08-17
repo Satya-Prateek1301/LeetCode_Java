@@ -324,6 +324,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -544,6 +545,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2187-minimum-time-to-complete-trips) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
