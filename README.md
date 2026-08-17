@@ -320,6 +320,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2187-minimum-time-to-complete-trips) |
@@ -525,6 +526,7 @@
 | [1672-richest-customer-wealth](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1816-truncate-sentence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
