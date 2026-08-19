@@ -152,6 +152,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0876-middle-of-the-linked-list) |
@@ -302,6 +303,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0450-delete-node-in-a-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -467,6 +469,7 @@
 | [0485-max-consecutive-ones](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0605-can-place-flowers) |
@@ -625,6 +628,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0692-top-k-frequent-words) |
@@ -696,6 +700,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0692-top-k-frequent-words) |
