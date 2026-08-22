@@ -304,6 +304,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0268-missing-number) |
@@ -460,6 +461,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0229-majority-element-ii) |
@@ -769,6 +771,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -902,6 +905,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
