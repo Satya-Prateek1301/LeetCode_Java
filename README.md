@@ -157,6 +157,7 @@
 | [0392-is-subsequence](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0647-palindromic-substrings) |
@@ -211,6 +212,7 @@
 | [0415-add-strings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0692-top-k-frequent-words) |
 | [0848-shifting-letters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0848-shifting-letters) |
@@ -654,6 +656,7 @@
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -780,6 +783,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
