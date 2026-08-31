@@ -511,6 +511,7 @@
 | [0875-koko-eating-bananas](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0922-sort-array-by-parity-ii) |
@@ -662,6 +663,7 @@
 | [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0692-top-k-frequent-words) |
+| [0904-fruit-into-baskets](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -789,6 +791,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
