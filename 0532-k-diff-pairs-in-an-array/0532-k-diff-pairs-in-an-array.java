@@ -1,33 +1,16 @@
 class Solution {
-
     public int findPairs(int[] nums, int k) {
-        int n = nums.length;
         Arrays.sort(nums);
-        int i = 0;
-        int j = 1;
+        int n = nums.length;
         int count = 0;
-        while (i < n && j < n) {
-            if (i == j) {
-                j++;
+        for(int i = 0 ; i < n ; i++){
+            int target = k + nums[i];
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            int diff = nums[j] - nums[i];
-            if (diff < k) {
-                j++;
-            }
-            else if (diff > k) {
-                i++;
-            }
-            else {
+            int idx = Arrays.binarySearch(nums, i+1, n, target);
+            if(idx >= 0){
                 count++;
-                int x = nums[i];
-                int y = nums[j];
-                while (i < n && nums[i] == x) {
-                    i++;
-                }
-                while (j < n && nums[j] == y) {
-                    j++;
-                }
             }
         }
         return count;
