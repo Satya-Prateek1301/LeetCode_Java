@@ -166,6 +166,7 @@
 | [0881-boats-to-save-people](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -420,6 +421,7 @@
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0962-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2000-reverse-prefix-of-word) |
@@ -516,6 +518,7 @@
 | [0912-sort-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -1130,6 +1133,7 @@
 | [0042-trapping-rain-water](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0496-next-greater-element-i) |
+| [0962-maximum-width-ramp](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/0962-maximum-width-ramp) |
 ## Merge Sort
 |  |
 | ------- |
