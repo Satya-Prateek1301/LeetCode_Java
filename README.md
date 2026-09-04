@@ -637,6 +637,7 @@
 | [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -949,6 +950,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3862-find-the-smallest-balanced-index) |
+| [3903-smallest-stable-index-i](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
