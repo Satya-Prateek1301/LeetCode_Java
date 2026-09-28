@@ -350,6 +350,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2594-minimum-time-to-repair-cars) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Tree
@@ -594,6 +595,7 @@
 | [2540-minimum-common-value](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2594-minimum-time-to-repair-cars) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya-Prateek1301/LeetCode_Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
